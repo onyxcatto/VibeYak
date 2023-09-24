@@ -20,6 +20,16 @@ Change directory in to the cloned repository by running:
 ```bash
    cd VibeYak
 ```
+Make sure you have pip (python's package manager) installed by running the following command depending on your OS:
+
+If you are on Windows:
+```bash
+   py -m ensurepip --upgrade
+```
+If you are on MacOS or Linux:
+```bash
+   python -m ensurepip --upgrade
+```
 Install dependencies by running (You might have to type "pip3" instead of "pip" depending on your OS):
 ```bash
    pip install -r requirements.txt
