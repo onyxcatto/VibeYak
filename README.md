@@ -7,7 +7,7 @@ VibeYak adds buttplug compatibility for YikYak made possible by [buttplug.io](ht
 Why would I spend the time to do such a thing? Well you see I thought it would be funny and then I spent hours learning these libraries to try and do such thing because I thought it would be funny. It really was not that funny, I just was too far in. I think I need help.
 ## Installation
 
-Make sure you have [git](https://git-scm.com/downloads) installed, as well as [python version 3.11](https://www.python.org/downloads/release/python-3110/).
+Make sure you have [git](https://git-scm.com/downloads) installed, as well as [python version 3.11](https://www.python.org/downloads/release/python-3115/).
 
 Also make sure you have [Interface Central](https://intiface.com/central/) installed, this will be used to connect to your buttplug of choice.
 
