@@ -12,5 +12,5 @@ Because it funny...
 5. Install dependencies by running 'pip install -r requirements.txt' (Depending on your OS you might have to use "pip3" instead of "pip")
 6. Install playwright by running 'playwright install'
 7. Now open Interface Central and hit the play button in the top left corner to start receiving input.
-8. Make sure your buttplug device in recognized in the devices tab, hit the start scanning button if not. More information of how to work Interface Central [is here](https://github.com/intiface/intiface-central) on their Github. 
+8. Make sure your buttplug device in recognized in the devices tab, and hit the start scanning button if the device is not picked up. Make sure to stop scanning once the device is found. More information of how to work Interface Central [is here](https://github.com/intiface/intiface-central) on their Github. 
 9. Now run 'python VibeYak.py' (Depending on your OS you might have to use "py" or "python3" instead of "python") and it should just connect to Interface Central and just work. 
