@@ -42,7 +42,7 @@ Now run the program (You may have to type "python3" instead of "python", dependi
 ```
 The program will ask you to login to your YikYak account (actually it's your Sidechat account because Sidechat owns YikYak) by asking for your phone number. 
 
-Upon entering your phone number, it will text you a verification code (it will say it's from SideChat, SideChat owns YikYak, it's the same thing.), which when entered will grant access to your account. Make sure you enter the code exactly right or the code will crash because I was too lazy to make it not do that. 
+Upon entering your phone number, it will text you a verification code (it will say it's from SideChat, SideChat owns YikYak, it's the same thing), which when entered will grant access to your account. Make sure you enter the code exactly right or the program will not work.
 
 I know this may seem suspicious to give out your phone number like that, but read the source code if you don't trust me. This program works by running the [unoffical web version](https://web.yikyak.pro/) of YikYak in a stripped down browser known as [Playwright](https://playwright.dev/) order to get the Karma from the user. 
 
