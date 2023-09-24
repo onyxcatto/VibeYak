@@ -9,7 +9,7 @@ Why would I spend the time to do such a thing? Well you see I thought it would b
 
 Make sure you have [git](https://git-scm.com/downloads) installed, as well as [python version 3.11](https://www.python.org/downloads/release/python-3110/).
 
-Also make sure you have [Interface Central](https://intiface.com/central/)) installed, this will be used to connect to your buttplug of choice.
+Also make sure you have [Interface Central](https://intiface.com/central/) installed, this will be used to connect to your buttplug of choice.
 
 Clone this repository by running in terminal:
 ```bash
