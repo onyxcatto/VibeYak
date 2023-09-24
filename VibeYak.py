@@ -4,10 +4,6 @@ import asyncio
 from buttplug import Client, WebsocketConnector
 import logging
 
-# ToDo: Is this real, am I real?
-
-
-
 
 async def vibrate_all(client, time):
     print("Sending vibration...")
