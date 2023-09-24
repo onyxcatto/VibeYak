@@ -11,7 +11,7 @@ Make sure you have [git](https://git-scm.com/downloads) installed, as well as [p
 
 Also make sure you have [Interface Central](https://intiface.com/central/)) installed, this will be used to connect to your buttplug of choice.
 
-Clone this repository by running:
+Clone this repository by running in terminal:
 ```bash
    git clone https://github.com/onyxcatto/VibeYak
 ```
