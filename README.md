@@ -34,8 +34,15 @@ If you are on MacOS or Linux:
 ```
 
 Install playwright by running:
+On Windows:
 ```bash
-   playwright install
+   py -m playwright install
+   py -m playwright install-deps
+```
+On MacOS or Linux:
+```bash
+   python -m playwright install
+   python -m playwright install-deps
 ```
 
 Now open Interface Central and hit the play button in the top left corner to start receiving input.
