@@ -32,19 +32,6 @@ async def start(client):
     await vibrate_all(client, 1)
 
 
-async def get_karma_from_html(html_content):
-    soup = BeautifulSoup(html_content, 'lxml')
-    text = soup.text
-    text = text[0:text.find("total karma") - 1]
-    text = text[text.rfind(" ") + 1:]
-    text = text[text.rfind("a") + 1:]
-    if text.find("menu") == -1:
-        print("Karma not found.")
-        return text
-    else:
-        return -1
-
-
 async def wait_and_print_seconds(seconds):
     print("Sleeping...", end="")
     for i in range(seconds):
